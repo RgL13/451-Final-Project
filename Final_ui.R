@@ -12,6 +12,7 @@ library(leaflet)
 library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
+
 header <- dashboardHeader(title = "Death Rates of Leading Diseases")
 
 sidebar <- dashboardSidebar(
@@ -39,12 +40,6 @@ sidebar <- dashboardSidebar(
       'Top 5 diseases',
       tabName = 'top5diseases',
       icon = icon("chart-bar")
-    ),
-    
-    menuItem(
-      "Overview", 
-      tabName = "overview", 
-      icon = icon("info-circle")
     ),
     menuItem(
       "Country gaps",
@@ -280,35 +275,6 @@ body <- dashboardBody(
       )
     ),
     
-    tabItem(
-      tabName = "overview",
-      fluidRow(
-        box(
-          width = 12,
-          title = "Project question",
-          status = "primary",
-          solidHeader = TRUE,
-          p("Question: Do men consistently bear a higher share of cardiovascular disease (CVD) burden than women in Latin America and the Caribbean?"),
-          p("This dashboard uses IHME Global Burden of Disease (GBD) 2023 estimates to compare the share of total disease prevalence attributable to selected cardiovascular causes for males and females (all ages, age-standardised).")
-        )
-      ),
-      fluidRow(
-        box(
-          width = 6,
-          title = "Distribution of male–female gaps (percentage points)",
-          status = "primary",
-          solidHeader = TRUE,
-          plotOutput("gap_hist")
-        ),
-        box(
-          width = 6,
-          title = "Summary numbers",
-          status = "primary",
-          solidHeader = TRUE,
-          verbatimTextOutput("gap_summary")
-        )
-      )
-    ),
     
     tabItem(
       tabName = "gaps",
