@@ -261,44 +261,7 @@ server <- function(input, output, session){
       if (length(locs) > 0) selected_country(locs[1])
     }
   })
-  
-  output$gap_hist <- renderPlot({
-    df <- base_data()
-    if (nrow(df) == 0) return(NULL)
-    
-    ggplot(df, aes(x = gap * 100)) +
-      geom_histogram(binwidth = 0.5, color = "white", fill = "#3182bd") +
-      labs(
-        x = "Male - Female (percentage points)",
-        y = "Number of locations",
-        title = paste("Distribution of male–female gaps in",
-                      tolower(input$cause_ziu), "(Latin America & Caribbean, 2023)")
-      ) +
-      theme_minimal()
-  })
-  
-  output$gap_summary <- renderPrint({
-    df <- base_data()
-    if (nrow(df) == 0) {
-      cat("No data available for this cause.")
-      return()
-    }
-    
-    n_all  <- nrow(df)
-    n_male <- sum(df$gap > 0)
-    n_fem  <- sum(df$gap < 0)
-    n_equal <- sum(abs(df$gap) < 1e-9)
-    mean_gap <- mean(df$gap) * 100
-    
-    cat("Cause:", input$cause_ziu, "\n\n")
-    cat("Total locations:", n_all, "\n")
-    cat("Locations where male share > female share:", n_male, "\n")
-    cat("Locations where female share > male share:", n_fem, "\n")
-    cat("Locations with almost no difference:", n_equal, "\n\n")
-    cat("Average male–female gap (percentage points):",
-        round(mean_gap, 2), "\n")
-  })
-  
+
   output$dumbbell_plot <- renderPlot({
     df <- base_data()
     if (nrow(df) == 0) return(NULL)
