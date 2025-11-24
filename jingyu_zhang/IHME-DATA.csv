@@ -1,0 +1,913 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.3139280083e-05,2.90158482681e-05,1.86828317155e-05
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.96268336091e-05,4.87318946225e-05,3.23159114671e-05
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.38501674367e-05,3.01557281534e-05,1.89953680599e-05
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.22710084413e-05,5.24478447248e-05,3.42578577288e-05
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0781619217472734,0.0836670189584839,0.0736972224280157
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0791285679316967,0.0853231434859266,0.0737761165346948
+5,Prevalence,107,Barbados,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1267907410168917,0.1391806138581338,0.1169716923473361
+5,Prevalence,107,Barbados,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1346978766246984,0.146354583358857,0.1232019141066864
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0512225964330249,0.055574547821606,0.0474496520422689
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0602038124627533,0.0654594786143909,0.0557519959281388
+5,Prevalence,112,Grenada,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1136373026823335,0.1216617380178974,0.1048805972148115
+5,Prevalence,112,Grenada,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1176099191920896,0.1272880833015908,0.108736449302766
+5,Prevalence,110,Dominica,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1135439759673723,0.1225933650549302,0.1039225140459298
+5,Prevalence,110,Dominica,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.115439435715646,0.125732167634801,0.1066747619743408
+5,Prevalence,107,Barbados,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003112950203849,0.000370991717129,0.000261567401267
+5,Prevalence,107,Barbados,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003041774640244,0.0003621754869688,0.0002566510353645
+5,Prevalence,107,Barbados,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0168323699767832,0.0176620170638806,0.0160727734702341
+5,Prevalence,107,Barbados,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0186927649322376,0.0195637464734654,0.017898551609094
+5,Prevalence,106,Bahamas,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0835083997030581,0.0920060148785236,0.0754570951558683
+5,Prevalence,106,Bahamas,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0840086788121169,0.0923983008243337,0.0767898416745098
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,4.58310876377e-05,5.31800386846e-05,3.94448415649e-05
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,4.16094965447e-05,4.84210375389e-05,3.57871025668e-05
+5,Prevalence,113,Guyana,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.075878667414915,0.0828756075861405,0.0699947652034446
+5,Prevalence,113,Guyana,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0744710040725844,0.0809564984225578,0.0686042448317319
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1015223205446358,0.1113907394128231,0.0930485326667334
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0950821037745456,0.103076927394039,0.0874309844515538
+5,Prevalence,109,Cuba,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1493502245690438,0.1645042515133023,0.1392683858695516
+5,Prevalence,109,Cuba,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1434439924792472,0.155672005306663,0.1331989531216002
+5,Prevalence,104,Caribbean,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.94684529878e-05,2.43572676174e-05,1.56665589879e-05
+5,Prevalence,104,Caribbean,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.35166006568e-05,4.15422825229e-05,2.7171131587e-05
+5,Prevalence,104,Caribbean,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.85151564988e-05,4.45156792895e-05,3.32819730123e-05
+5,Prevalence,104,Caribbean,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.92533027597e-05,3.38100884013e-05,2.51741259947e-05
+5,Prevalence,115,Jamaica,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0886018815148801,0.0956744100282842,0.082293317000496
+5,Prevalence,115,Jamaica,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0913989488752085,0.0986208698344831,0.0855871110540259
+5,Prevalence,107,Barbados,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0020591509166488,0.0024803128637706,0.0016551881978492
+5,Prevalence,107,Barbados,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0010260246505445,0.0012516030400056,0.0007903647715835
+5,Prevalence,106,Bahamas,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0446338496941023,0.0520488068340834,0.0369724818452747
+5,Prevalence,106,Bahamas,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0403056095725153,0.0474051978193421,0.033680593455626
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0262366865552635,0.0294228304253784,0.0238307547017346
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0208911666089727,0.0232816729473718,0.0188382873884117
+5,Prevalence,106,Bahamas,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0032770711095924,0.0042058931848122,0.0025317740530418
+5,Prevalence,106,Bahamas,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0030882632619474,0.0039267022855281,0.0024869182727184
+5,Prevalence,114,Haiti,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0621575966333209,0.0676197540409836,0.0569958587355254
+5,Prevalence,114,Haiti,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0685777899973639,0.0754304732330188,0.0624842545723419
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0563681559039042,0.0610032683550732,0.0523990635086957
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0556111590942707,0.0600393090802883,0.0519457630212934
+5,Prevalence,104,Caribbean,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1035854977545005,0.1107702702356062,0.0980186209730319
+5,Prevalence,104,Caribbean,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1028143731559189,0.1100115825004462,0.0976244138654595
+5,Prevalence,106,Bahamas,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.67088901642e-05,2.11642093147e-05,1.31031225131e-05
+5,Prevalence,106,Bahamas,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.01988491119e-05,3.75373103368e-05,2.42247065238e-05
+5,Prevalence,127,El Salvador,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0585415254076362,0.0628062607587316,0.0542984745073583
+5,Prevalence,127,El Salvador,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0684200570772544,0.0738337665465835,0.0634036434364379
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0134182274737686,0.0171925220445059,0.0102491611416522
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0185002610238424,0.0236607308184409,0.0140766493046266
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0666991409495874,0.0717004767835144,0.0625974904863539
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0624749365000366,0.0675207064437439,0.058047311136002
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0014815599187914,0.0019134011988786,0.0011338976248622
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0017794872912905,0.0022375123969887,0.0014038066275684
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0403150636542253,0.045862453244101,0.0349142413047047
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0375174563607775,0.0421277500270091,0.0326258007960881
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0095171501632806,0.0119623048491488,0.0073288107775382
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0078129613103048,0.0098280078344787,0.0059947865165351
+5,Prevalence,114,Haiti,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.15681431788e-05,1.46324462431e-05,9.4462249827e-06
+5,Prevalence,114,Haiti,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.82695833645e-05,2.25372267679e-05,1.48247807258e-05
+5,Prevalence,109,Cuba,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.56294028967e-05,3.18811309204e-05,2.06237732211e-05
+5,Prevalence,109,Cuba,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.46086041162e-05,5.62870832759e-05,3.55211234512e-05
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1035661066351969,0.1120070408380684,0.0944029048206402
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0978089671128962,0.1059936200656792,0.0895128924761202
+5,Prevalence,123,Peru,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0666864899722202,0.0718447642534123,0.0619757496295787
+5,Prevalence,123,Peru,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.062489347791898,0.0679500279259296,0.057586697710156
+5,Prevalence,108,Belize,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.50710780031e-05,1.85351949194e-05,1.21086278209e-05
+5,Prevalence,108,Belize,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.57748341604e-05,3.178403985e-05,2.08065137153e-05
+5,Prevalence,110,Dominica,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.0451541783e-05,2.54599772823e-05,1.64556074418e-05
+5,Prevalence,110,Dominica,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.46869240341e-05,4.25693865096e-05,2.81365021332e-05
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.93926812709e-05,2.40903136457e-05,1.5611820163e-05
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.38069446403e-05,4.14649654041e-05,2.74826685982e-05
+5,Prevalence,107,Barbados,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0571654285639978,0.0680604815002456,0.0462193147910018
+5,Prevalence,107,Barbados,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0544708421374374,0.0624968911237584,0.0461604845632458
+5,Prevalence,107,Barbados,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0202215972700254,0.0258713134774816,0.0151712850481895
+5,Prevalence,107,Barbados,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0284305808146717,0.0368129166882916,0.0211905775417697
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0768641764206525,0.0825651906568102,0.0725029634197544
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0783331861958142,0.0849118696557196,0.0729795762755633
+5,Prevalence,106,Bahamas,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.007854395207029,0.0100028394884339,0.0059348887324339
+5,Prevalence,106,Bahamas,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0068106150108249,0.0087023980258891,0.0051534071039481
+5,Prevalence,106,Bahamas,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.002482983264261,0.0029575489526871,0.0020946899582697
+5,Prevalence,106,Bahamas,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0012589132659737,0.0014902843419035,0.0010772559121077
+5,Prevalence,112,Grenada,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0163174586929351,0.0208155152347191,0.0123400361346977
+5,Prevalence,112,Grenada,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0224082266573416,0.0290862263797471,0.0168823105322603
+5,Prevalence,108,Belize,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0737286063822356,0.0791271002290859,0.0686025676248462
+5,Prevalence,108,Belize,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0706186644961641,0.0763584987011473,0.0646534897226049
+5,Prevalence,110,Dominica,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.12581755836e-05,3.57878106601e-05,2.6947074141e-05
+5,Prevalence,110,Dominica,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,4.43625294138e-05,5.17927539664e-05,3.77088948191e-05
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0099217324439276,0.0129560493790111,0.0076029699731876
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.012950155394012,0.0168814128457484,0.0099034912616665
+5,Prevalence,107,Barbados,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.032308374337486,0.0425353969594068,0.0238913956571319
+5,Prevalence,107,Barbados,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0363327361012994,0.0470290053188918,0.0274396522628256
+5,Prevalence,118,Suriname,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0994607038315125,0.1096371512758196,0.0921473205011674
+5,Prevalence,118,Suriname,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0990516017054729,0.1089498649257686,0.091396724486172
+5,Prevalence,106,Bahamas,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0108809145386815,0.0141923109806813,0.0082027395064998
+5,Prevalence,106,Bahamas,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0149898835278755,0.019943195358929,0.0112904853967665
+5,Prevalence,125,Colombia,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0820805948237418,0.091525739717022,0.0752601341219285
+5,Prevalence,125,Colombia,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0865425775489493,0.0948676791338241,0.0795871396442888
+5,Prevalence,113,Guyana,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0093013845069573,0.012049698346443,0.0070200025226918
+5,Prevalence,113,Guyana,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0123955533073902,0.0158402225785594,0.0093670566756678
+5,Prevalence,107,Barbados,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0037914863736178,0.0050213105022883,0.0028703346640668
+5,Prevalence,107,Barbados,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0040936126083591,0.0052938454775796,0.0031400322392738
+5,Prevalence,115,Jamaica,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.21224465475e-05,2.74755282789e-05,1.78921996385e-05
+5,Prevalence,115,Jamaica,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.61595138716e-05,4.42552185919e-05,2.9266700147e-05
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002951071038267,0.0003525496609021,0.0002459070105633
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002965313378837,0.0003540843992045,0.0002454501719174
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0125765811364181,0.0131498472694868,0.0120713838000122
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0138720181666191,0.0143946771305,0.0133654097930124
+5,Prevalence,114,Haiti,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0094798575935994,0.0119120657626468,0.0073694374293837
+5,Prevalence,114,Haiti,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0101614696052848,0.0125850212473086,0.0078242084740419
+5,Prevalence,114,Haiti,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0089671324816168,0.0093823418005854,0.0085395712186153
+5,Prevalence,114,Haiti,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0084487553865513,0.0088215311665346,0.0080988711328126
+5,Prevalence,109,Cuba,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003176619985267,0.0003700894662181,0.0002651374007353
+5,Prevalence,109,Cuba,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003079891693708,0.0003602681333831,0.0002593567578333
+5,Prevalence,109,Cuba,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0218792874103681,0.023023483373863,0.0208804892934093
+5,Prevalence,109,Cuba,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0195584078377078,0.0205461258802312,0.0186744351115386
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0027029563110183,0.0031461022335464,0.0022885156621428
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0016828410401441,0.0019423429194934,0.001434535567225
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0079122764758596,0.0096707592779669,0.0063246854073614
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0093154502170903,0.0113475107208801,0.0075332768131325
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0115318830990727,0.0123650599557423,0.010904800078867
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0116880747249892,0.0124498230996514,0.0110223339372378
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0866822926703645,0.0954145065704473,0.0803634793824452
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0851248896263745,0.0927082156197688,0.079330715912673
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1288644985815022,0.1390650288479602,0.1184455459002886
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.11671771702069,0.1246394345699192,0.1092048875947317
+5,Prevalence,112,Grenada,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.82800151955e-05,2.28176047923e-05,1.47348779822e-05
+5,Prevalence,112,Grenada,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.14964828112e-05,3.87649782943e-05,2.51955081188e-05
+5,Prevalence,110,Dominica,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0168935664949349,0.0217821140606166,0.0126144872743416
+5,Prevalence,110,Dominica,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0235800043839472,0.0300637138123314,0.0177714798781083
+5,Prevalence,113,Guyana,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.4155964672e-05,1.74488799751e-05,1.1325727905e-05
+5,Prevalence,113,Guyana,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.49088479477e-05,3.08239130252e-05,2.00500580104e-05
+5,Prevalence,108,Belize,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.033603593965956,0.037964181818407,0.029371276426593
+5,Prevalence,108,Belize,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0291465173927596,0.0334741538958051,0.0245264104683383
+5,Prevalence,107,Barbados,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0147335498002464,0.0189391068164403,0.0111792336585357
+5,Prevalence,107,Barbados,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0129552372434711,0.0168506118138462,0.0098514166248311
+5,Prevalence,112,Grenada,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0102029701754971,0.0125465764796885,0.0082206122651799
+5,Prevalence,112,Grenada,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0108163544977344,0.0134232026072895,0.0086678963632814
+5,Prevalence,112,Grenada,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0179819700209202,0.0188568092974456,0.0170561549288823
+5,Prevalence,112,Grenada,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0176477566189408,0.0184645173691805,0.0168149997480879
+5,Prevalence,128,Guatemala,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0514683106134301,0.055629886490253,0.0474543795596441
+5,Prevalence,128,Guatemala,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0551069001952486,0.0612976794916931,0.0505901419018081
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1175347526555294,0.1280599929807342,0.1076047002393271
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.114092599431568,0.1246954936983362,0.1045491585869304
+5,Prevalence,109,Cuba,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0212479237856085,0.0275770599353433,0.0160155611187324
+5,Prevalence,109,Cuba,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0292042895496153,0.0373671273748133,0.0222722950894384
+5,Prevalence,129,Honduras,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0508393116337007,0.0548763060900594,0.0472674837022965
+5,Prevalence,129,Honduras,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0526963114318574,0.0573500906841958,0.0488690781970893
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0714444478721701,0.0770656587130775,0.0656550397339588
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0729374055285377,0.0797993774080944,0.0660598741540632
+5,Prevalence,127,El Salvador,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0124567466849772,0.0160116389592733,0.0095354150012306
+5,Prevalence,127,El Salvador,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0166258073854879,0.0214106974055271,0.0123305240096773
+5,Prevalence,107,Barbados,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.48857865541e-05,3.08698859141e-05,1.97547737514e-05
+5,Prevalence,107,Barbados,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.35524595008e-05,5.47510680402e-05,3.45993985125e-05
+5,Prevalence,130,Mexico,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0838814233461979,0.0909494739167701,0.0786246875992993
+5,Prevalence,130,Mexico,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0822963592783752,0.0889947508766111,0.0768525057068291
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0037199606693435,0.0048691932756357,0.002848229234508
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0039499113548399,0.0050263309200358,0.0030924469144902
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0077754482451916,0.0100632865589352,0.0058941350692371
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0108566300305149,0.0139513567374614,0.0081077467724582
+5,Prevalence,108,Belize,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0020204025993577,0.0026264342409936,0.0015584475636212
+5,Prevalence,108,Belize,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0015649215176059,0.0020240518639534,0.001255076329122
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0098785740468005,0.0121558353049226,0.0077755609623015
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0108520622806064,0.0132679149891377,0.0087826110388399
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0148516914066979,0.0154925887155732,0.0141226684712457
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0156570441810267,0.0165679551146899,0.0148810416340161
+5,Prevalence,112,Grenada,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0014625338838026,0.0017355677175297,0.0011745204660656
+5,Prevalence,112,Grenada,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0009812121518186,0.0012212501275724,0.0007639512102698
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0009495314120982,0.0011098304649053,0.0007869041150687
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007149708275136,0.0008461416509023,0.0005816690774819
+5,Prevalence,104,Caribbean,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0063103735573508,0.0077462331047674,0.0050372972420287
+5,Prevalence,104,Caribbean,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0067881893163545,0.0082437274910604,0.0053977383029194
+5,Prevalence,104,Caribbean,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0137506010393055,0.0142602229798161,0.01324585398908
+5,Prevalence,104,Caribbean,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0132717446422156,0.0137717061467129,0.0128038420589537
+5,Prevalence,114,Haiti,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0050376312533851,0.0066468448908595,0.0038146144958026
+5,Prevalence,114,Haiti,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0065234379350046,0.0085822204094131,0.0049042826726361
+5,Prevalence,104,Caribbean,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0131507787856502,0.0168036602474877,0.0099908899414219
+5,Prevalence,104,Caribbean,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0179159954063479,0.0228054677364631,0.0135458146540687
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0144979915638589,0.0187912068194686,0.0109288989824853
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0197466415289788,0.0249942656459275,0.0149994431639407
+5,Prevalence,115,Jamaica,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.012443688911284,0.0159282645859005,0.0093264423195347
+5,Prevalence,115,Jamaica,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0172312303814027,0.0219130036847577,0.013182614302681
+5,Prevalence,106,Bahamas,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,4.9915565513e-05,5.98974370858e-05,4.15208418806e-05
+5,Prevalence,106,Bahamas,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,4.43964120195e-05,5.36406554001e-05,3.65862840642e-05
+5,Prevalence,114,Haiti,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005874359293165,0.0006902766057743,0.0004856989207011
+5,Prevalence,114,Haiti,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003589488568346,0.000431102660104,0.0002886051743967
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0097848669667794,0.0125808015844783,0.0073737326591824
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0083223288801722,0.0106715621778065,0.0061259759979795
+5,Prevalence,115,Jamaica,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.010818314076409,0.0135476150506383,0.0085483851106021
+5,Prevalence,115,Jamaica,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.011527489937705,0.0140120578717865,0.0091185124842749
+5,Prevalence,115,Jamaica,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0125606265239358,0.0131053287833712,0.0119819553250368
+5,Prevalence,115,Jamaica,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0139041601947026,0.0144669829179899,0.0132842598441647
+5,Prevalence,107,Barbados,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0053703882952829,0.0064266511206562,0.0045265610507441
+5,Prevalence,107,Barbados,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0023649677869038,0.0028187301543665,0.0019366809986169
+5,Prevalence,109,Cuba,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0016615253998488,0.0019687219476547,0.0013759693763809
+5,Prevalence,109,Cuba,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0009652194271766,0.0011694279333424,0.0007729307463276
+5,Prevalence,113,Guyana,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0096261800053368,0.0117478458407922,0.0076040510832714
+5,Prevalence,113,Guyana,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0104702513070691,0.0129605685766095,0.0082105311722628
+5,Prevalence,113,Guyana,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0105966129591372,0.0111609242854662,0.0101140897415949
+5,Prevalence,113,Guyana,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0106237936010624,0.0111297389642588,0.0101992725276288
+5,Prevalence,123,Peru,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0099257783909171,0.0128077011778254,0.0074661102027587
+5,Prevalence,123,Peru,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0130390007302392,0.0167521390695061,0.0100118261024724
+5,Prevalence,112,Grenada,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,5.97261171079e-05,6.93087166503e-05,5.06543702057e-05
+5,Prevalence,112,Grenada,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,6.00370180362e-05,7.07253245925e-05,5.1402156463e-05
+5,Prevalence,122,Ecuador,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0738840630420647,0.0790610494853041,0.0693211929192057
+5,Prevalence,122,Ecuador,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0670148482730883,0.0725591673110938,0.0626401316179915
+5,Prevalence,108,Belize,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0061184735478689,0.0078470832047156,0.0046712633026731
+5,Prevalence,108,Belize,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.004475548367295,0.0056189931024844,0.0033960332658582
+5,Prevalence,108,Belize,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0084148311123709,0.0110248099475899,0.0063654718678015
+5,Prevalence,108,Belize,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0096411215214275,0.012592109626332,0.0073218054516094
+5,Prevalence,109,Cuba,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0197586099774488,0.0261680373531722,0.0145570542207487
+5,Prevalence,109,Cuba,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0188278548179252,0.0238913087686445,0.0142943771645515
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0035563945269162,0.0042151392907873,0.0029715141399503
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015107082496206,0.0017784900850377,0.0012434029694139
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0148124181209791,0.01901530768717,0.0113962190759164
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0181969585125479,0.0233984422062266,0.0138121114540994
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0098509652508506,0.0126371153443185,0.0074469976130188
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0128555319224918,0.0164895640986139,0.0097827072800926
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.016357511382749,0.0210747786957747,0.0124875285477494
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0214700505561443,0.0279708517178509,0.0161440283710651
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0011462271911968,0.0013751088335466,0.0009551018872756
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004579803871383,0.0005455553959462,0.0003758656500143
+5,Prevalence,108,Belize,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0096787206749499,0.0121695441486431,0.0076768464345448
+5,Prevalence,108,Belize,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0110300928753332,0.0134414042953388,0.0086828162717038
+5,Prevalence,108,Belize,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0078599440813431,0.0081569453522166,0.0075089121809991
+5,Prevalence,108,Belize,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0078137859240438,0.0081362605347022,0.0074609908389675
+5,Prevalence,118,Suriname,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0124964210559564,0.0158596191139388,0.0095116333251971
+5,Prevalence,118,Suriname,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0177469526404283,0.0229110309721708,0.0132831762356719
+5,Prevalence,114,Haiti,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0093438183035241,0.0118745871770325,0.0072972279315662
+5,Prevalence,114,Haiti,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0042289646996794,0.0054565012216551,0.0033375530689361
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0173629415660325,0.0227571587465918,0.013116655662923
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0209530812342957,0.0266938108698486,0.0157735909240621
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002914558264382,0.0003460503769892,0.0002414185523094
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003015733708485,0.0003556906552542,0.0002539200077127
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0153006303829012,0.0162654793353071,0.0143113683648006
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0163695559880654,0.0174971378357743,0.015286831410454
+5,Prevalence,112,Grenada,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0201558525266505,0.0268113555852199,0.0148483241781841
+5,Prevalence,112,Grenada,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0178884451877244,0.0230485391710172,0.0137985017633295
+5,Prevalence,104,Caribbean,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0009900090495924,0.0011436437358415,0.0008263301176487
+5,Prevalence,104,Caribbean,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0006288774459279,0.0007366059994607,0.0005184632145737
+5,Prevalence,118,Suriname,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.009667019490722,0.0118005584718699,0.0079051059135112
+5,Prevalence,118,Suriname,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0105588997559741,0.0127429185543678,0.0083789404541121
+5,Prevalence,118,Suriname,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0133020448165247,0.0138684594194037,0.0126525800778798
+5,Prevalence,118,Suriname,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0139718904364344,0.0146053842437198,0.0133203495054277
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.06237347108e-05,3.66036462537e-05,2.52721479891e-05
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.34406111406e-05,2.82738039842e-05,1.96634206134e-05
+5,Prevalence,115,Jamaica,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,6.40995521753e-05,7.5409126812e-05,5.42725695072e-05
+5,Prevalence,115,Jamaica,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,8.5753645816e-05,0.000103396042166,6.98075832269e-05
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0090297885075099,0.0114610495926738,0.0069159579062384
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0121939515331255,0.0155730930618004,0.0092886696433261
+5,Prevalence,128,Guatemala,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0098683665770959,0.0124986454563883,0.0075059578008375
+5,Prevalence,128,Guatemala,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0110342788727634,0.0143904164687093,0.008331167996217
+5,Prevalence,129,Honduras,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0095897112293342,0.0123429029674901,0.007284826629018
+5,Prevalence,129,Honduras,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0102125061830697,0.0132323740188427,0.0078401748938688
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007306464658737,0.0008707458517388,0.000594690874266
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003570607753697,0.0004207154288084,0.0002878485126737
+5,Prevalence,108,Belize,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0018867966986078,0.0022105169254806,0.0015865199834906
+5,Prevalence,108,Belize,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0006853133627679,0.0008073813887776,0.0005741295393494
+5,Prevalence,103,Latin America and Caribbean,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0146773397712519,0.0188734977615479,0.0112773733507982
+5,Prevalence,103,Latin America and Caribbean,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0158494926683414,0.0197146790261539,0.0121310816005886
+5,Prevalence,106,Bahamas,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002642729009287,0.0003146431880672,0.0002195073884511
+5,Prevalence,106,Bahamas,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002688084812904,0.000320662010402,0.0002217458743914
+5,Prevalence,106,Bahamas,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0092526540903304,0.0096390304408473,0.0088639307517673
+5,Prevalence,106,Bahamas,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0106717353539727,0.0111116556494677,0.0102278920184798
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0018610308965167,0.0022299728223094,0.0015112072895129
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0009386389472243,0.0011054868758114,0.0007638407511462
+5,Prevalence,125,Colombia,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0142926833672097,0.0182896734844404,0.0109435158190384
+5,Prevalence,125,Colombia,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0174332415215564,0.0224907621798502,0.0129817562540393
+5,Prevalence,107,Barbados,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,0.0001224958794369,0.0001418936753201,0.000103200757337
+5,Prevalence,107,Barbados,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,7.73594676911e-05,9.17166832283e-05,6.58119546994e-05
+5,Prevalence,115,Jamaica,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0010552813813065,0.0012190398386661,0.0008808677540613
+5,Prevalence,115,Jamaica,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005897309974034,0.0007015937461882,0.0004824690962593
+5,Prevalence,108,Belize,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.64202126966e-05,3.10326503701e-05,2.23785396849e-05
+5,Prevalence,108,Belize,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,1.36559218044e-05,1.62392696123e-05,1.15602558828e-05
+5,Prevalence,112,Grenada,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0472492359543921,0.0537100560418778,0.0384579562169499
+5,Prevalence,112,Grenada,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0525186330478957,0.0621048435072836,0.0448955100497819
+5,Prevalence,130,Mexico,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0160620998155024,0.0205647837399498,0.0123082399066682
+5,Prevalence,130,Mexico,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0200830900451291,0.0257696612294461,0.0152836288244954
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0159602021133442,0.0209434397238918,0.01190324500591
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0219177851582192,0.0287444430399753,0.0163434897747888
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0175919557836486,0.0229090292275083,0.0133066299797723
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0208579356699653,0.0265188110596587,0.0156717135716217
+5,Prevalence,104,Caribbean,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0571577443942952,0.0639530932691685,0.0521018018449644
+5,Prevalence,104,Caribbean,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0541380701252875,0.0597916240438073,0.0493386204299053
+5,Prevalence,115,Jamaica,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0141860112176715,0.0186441573664595,0.0107885700178784
+5,Prevalence,115,Jamaica,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0126936608920372,0.0161685804017722,0.0096563067570383
+5,Prevalence,106,Bahamas,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0010338053671429,0.0012476087236865,0.000852297679052
+5,Prevalence,106,Bahamas,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.000580500993425,0.0006884290924826,0.0004759970923592
+5,Prevalence,118,Suriname,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.8463677594e-05,3.32233003826e-05,2.41589508106e-05
+5,Prevalence,118,Suriname,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,1.87718419222e-05,2.21408021721e-05,1.59967886078e-05
+5,Prevalence,108,Belize,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0008861183508799,0.0010376983959719,0.0007320211516292
+5,Prevalence,108,Belize,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0006764718617067,0.0008056386824845,0.0005449724027949
+5,Prevalence,113,Guyana,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0006971849251339,0.0008271937026928,0.0005817983872756
+5,Prevalence,113,Guyana,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004519517303784,0.0005300073432796,0.0003672617140657
+5,Prevalence,109,Cuba,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.091097647787709,0.1110263402170236,0.0802375274364019
+5,Prevalence,109,Cuba,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0806189190865012,0.092268615926719,0.0712831127071141
+5,Prevalence,110,Dominica,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.010347330266716,0.0127260931783195,0.0082380182620831
+5,Prevalence,110,Dominica,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0112760713026107,0.0137919651711723,0.0090992638265891
+5,Prevalence,110,Dominica,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0144296658418924,0.0150985281396333,0.0137348690531211
+5,Prevalence,110,Dominica,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.015437511653268,0.0162617698766553,0.014605480274277
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.040450546721024,0.0477457727171979,0.0340361790186439
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.036438763618701,0.0433742957936179,0.0317875378847082
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0308880041535192,0.0398822254855526,0.0232273101478688
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0224062521711133,0.0281031592318745,0.017529629409133
+5,Prevalence,122,Ecuador,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.011128993399117,0.0142496692994205,0.0083693677095431
+5,Prevalence,122,Ecuador,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0138196078650819,0.0176665937851181,0.0104520181143524
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.32287079317e-05,4.08469973552e-05,2.75093556305e-05
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.44058988854e-05,3.02565316496e-05,2.02866393085e-05
+5,Prevalence,114,Haiti,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.32500585366e-05,2.79896110455e-05,1.96421863789e-05
+5,Prevalence,114,Haiti,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,1.52596352057e-05,1.82714732952e-05,1.2893386014e-05
+5,Prevalence,113,Guyana,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0341629271885098,0.0417671840471493,0.0290867146673096
+5,Prevalence,113,Guyana,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0318922339421891,0.0385891489917076,0.0260514641796186
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0088555427722707,0.0108227493659325,0.0070150687381428
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.009264512509977,0.0113392348399075,0.0074793237868972
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0107090429181379,0.0110616217879137,0.010328906950501
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0101773997417775,0.0106863407908877,0.0097410477154128
+5,Prevalence,118,Suriname,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.000841001538861,0.0010153833260723,0.0006859744554489
+5,Prevalence,118,Suriname,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005688905450181,0.0006745658674946,0.0004719864114415
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0098924008185579,0.0122050798080255,0.0077981560166169
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0107690888781542,0.0130853500068888,0.0085546265505294
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0108777353147482,0.0113895214192517,0.0103765374677077
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0107485707367367,0.0112521458642899,0.0102952738578424
+5,Prevalence,108,Belize,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0128144858808498,0.016643760928983,0.0102316508924232
+5,Prevalence,108,Belize,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0128786308201611,0.0162004920232753,0.0100090657704615
+5,Prevalence,109,Cuba,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,4.08644237596e-05,4.62708503912e-05,3.56134294388e-05
+5,Prevalence,109,Cuba,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.64016537305e-05,3.04462490084e-05,2.31388058233e-05
+5,Prevalence,113,Guyana,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,4.11684494867e-05,4.97497895571e-05,3.42424441844e-05
+5,Prevalence,113,Guyana,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,3.93061529677e-05,4.79027726637e-05,3.18709596912e-05
+5,Prevalence,109,Cuba,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0031525280634729,0.0042149404948403,0.0023099828820195
+5,Prevalence,109,Cuba,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0031120381643795,0.0040112529348434,0.0023160443033916
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0339182905041991,0.0425932657897355,0.0260811906618638
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0229248534116835,0.0294622233723149,0.0178936361565491
+5,Prevalence,112,Grenada,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0029942429406157,0.0039685771716864,0.0022052400399805
+5,Prevalence,112,Grenada,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0033572228583421,0.0043941395100609,0.0026306687412368
+5,Prevalence,112,Grenada,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.011169446463114,0.0144742997451527,0.008478669923389
+5,Prevalence,112,Grenada,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0096506313366644,0.0125131953273549,0.0071733918186143
+5,Prevalence,105,Antigua and Barbuda,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,7.35913311796e-05,8.8682251029e-05,5.95733870883e-05
+5,Prevalence,105,Antigua and Barbuda,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,3.74600932984e-05,4.35213559375e-05,3.13430354145e-05
+5,Prevalence,118,Suriname,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0544130863974571,0.0656138898071865,0.0467028390854905
+5,Prevalence,118,Suriname,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0473134655350884,0.0576651508711554,0.0389380746922164
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0033980071629518,0.0046261051502926,0.0025556175478592
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0036469777189761,0.0047041177040817,0.0028564213611357
+5,Prevalence,104,Caribbean,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0023323961428197,0.0030533232938886,0.0017893094433112
+5,Prevalence,104,Caribbean,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0022279637943914,0.0028713245522722,0.0017426499140599
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0098086201655186,0.0120922921665319,0.0077716973075136
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0095260294872611,0.0117553441345747,0.0076577447541373
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0092744698482202,0.0096971615681772,0.0088935571180407
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0100279844353302,0.010473381779196,0.0096327746935631
+5,Prevalence,113,Guyana,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0088782204854885,0.0113220585738527,0.0067968635243914
+5,Prevalence,113,Guyana,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0075915689677013,0.0095164949762196,0.0057890058046236
+5,Prevalence,104,Caribbean,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0142371367457817,0.0185406959581984,0.0109689569019282
+5,Prevalence,104,Caribbean,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.012584881148988,0.0156534810605215,0.0100015777410276
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0540454313030543,0.0645512039439596,0.0460895808092613
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.050510319473796,0.0584972837649647,0.044142236221691
+5,Prevalence,118,Suriname,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0021342157822771,0.0028041900777641,0.0016306794913541
+5,Prevalence,118,Suriname,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0023961931805077,0.0030488339297849,0.0018392025905129
+5,Prevalence,113,Guyana,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0021644561431945,0.0028206961851872,0.0016094315064007
+5,Prevalence,113,Guyana,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0020225840590845,0.0025946430657387,0.0015927989599364
+5,Prevalence,110,Dominica,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0019334166538218,0.0023014591933961,0.0015463390888745
+5,Prevalence,110,Dominica,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0010387131969995,0.0012797271150716,0.0008371357240614
+5,Prevalence,118,Suriname,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0082100090563407,0.0104852034827209,0.0062849266789219
+5,Prevalence,118,Suriname,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0073167559845514,0.0093356201604706,0.0055798257562939
+5,Prevalence,109,Cuba,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0141106237671718,0.0176234417708536,0.0108013221711338
+5,Prevalence,109,Cuba,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0122219423342884,0.0154636172750502,0.0091727220212153
+5,Prevalence,122,Ecuador,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.008778158528595,0.0106551790774651,0.0070504769532194
+5,Prevalence,122,Ecuador,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0094156316905907,0.0116599274305268,0.0075802421357316
+5,Prevalence,122,Ecuador,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0112738448781259,0.0117788241484926,0.0108477409167273
+5,Prevalence,122,Ecuador,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0106242779471746,0.0112287505044982,0.0100285709313887
+5,Prevalence,113,Guyana,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0066064564332622,0.008395499527554,0.0050525371806034
+5,Prevalence,113,Guyana,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0055522978014465,0.0071728287633196,0.0042900023537247
+5,Prevalence,109,Cuba,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0053564896169448,0.0064448669874566,0.0044320521692135
+5,Prevalence,109,Cuba,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0023755021922055,0.0027795463141809,0.002014445802593
+5,Prevalence,122,Ecuador,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.84532982222e-05,3.35269322316e-05,2.38161961087e-05
+5,Prevalence,122,Ecuador,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.21609963941e-05,2.5801572067e-05,1.86834765518e-05
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0374023911179523,0.0479038350003894,0.0287107789253722
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0220992593868476,0.0270595586720459,0.0172049048631489
+5,Prevalence,115,Jamaica,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0359733108812287,0.0420711507406389,0.030789899287516
+5,Prevalence,115,Jamaica,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0354203579158273,0.0419383539754617,0.029993460147732
+5,Prevalence,112,Grenada,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0051833934893481,0.0061499630613594,0.0044164238480423
+5,Prevalence,112,Grenada,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0013266373153716,0.0015487880732401,0.0010951984076675
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.069853119354386,0.0833423241442875,0.0604282821831228
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0600463126165225,0.0706501088974299,0.0499359081126654
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007320693667939,0.0008638567350538,0.0005862980488294
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005545383087298,0.0006545629119233,0.0004443739517705
+5,Prevalence,104,Caribbean,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0092356312175141,0.0117498010576998,0.0070315140672818
+5,Prevalence,104,Caribbean,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0078989517686589,0.0100800640601493,0.0060060820095073
+5,Prevalence,123,Peru,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004431295943587,0.0005392985287212,0.0003561186236135
+5,Prevalence,123,Peru,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003020730211713,0.0003742542052641,0.0002376762267788
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003166673588114,0.0003731229863474,0.0002674027428119
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002931369118183,0.000341084968712,0.0002486044572029
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0160037908581852,0.0168188599086616,0.0152117070336356
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0156162661921397,0.016380577443589,0.0148662084855219
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0113019275014723,0.0144851229122325,0.0087010693893131
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0093403518339117,0.0118248620552371,0.0070762835330012
+5,Prevalence,123,Peru,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.67598919974e-05,4.42706917108e-05,3.05749139707e-05
+5,Prevalence,123,Peru,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.97346408955e-05,3.56260778976e-05,2.51754548998e-05
+5,Prevalence,114,Haiti,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0299654319984739,0.0353599657977507,0.0251645894756048
+5,Prevalence,114,Haiti,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0398931603004568,0.0468177268989671,0.0334351012394128
+5,Prevalence,110,Dominica,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0539740711002599,0.0639813174205183,0.0442103805830287
+5,Prevalence,110,Dominica,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0506362301780236,0.0604680552369638,0.0411568018913894
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,5.43299886496e-05,6.38431905204e-05,4.59342531268e-05
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,4.63088527676e-05,5.41925727027e-05,3.97176045335e-05
+5,Prevalence,132,Panama,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0732531419401941,0.0793369369863477,0.068088858912934
+5,Prevalence,132,Panama,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0740421058799442,0.0801533435493613,0.0686182067228776
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.046861115013226,0.0544731374214758,0.0392117641065539
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0424844829775277,0.0502629254821366,0.0364099011971772
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.004821439970908,0.0063335468796369,0.0036516246425434
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0038906844699382,0.0049415952665603,0.0030495467249826
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0118430934486993,0.0149249960352853,0.0089566813491289
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0089362661614513,0.0114124517487174,0.006763171128119
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0191544814650088,0.0216182698749261,0.0168645679270525
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.014797237134602,0.0168362460840884,0.0132773177725492
+5,Prevalence,113,Guyana,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0026530251737338,0.0030895180032355,0.0022539618890861
+5,Prevalence,113,Guyana,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0009720680535816,0.0011677485476958,0.0008295446102606
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004487048365402,0.0005352822237477,0.0003611119538301
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003048199807947,0.0003677580630041,0.0002446054283971
+5,Prevalence,110,Dominica,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0146809963597187,0.0191899586061557,0.0106782527144139
+5,Prevalence,110,Dominica,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0160521216096554,0.0205604987402453,0.0125114890451629
+5,Prevalence,122,Ecuador,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004569657764136,0.0005531034657008,0.0003605609463217
+5,Prevalence,122,Ecuador,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003054085742904,0.0003659424174554,0.0002391813788594
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004539971453409,0.0005557220965627,0.0003670161197945
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003121822116263,0.0003778333501973,0.0002505333620543
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.85136476233e-05,4.46284660788e-05,3.27758749568e-05
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,3.42103754484e-05,4.01020818076e-05,2.92438149693e-05
+5,Prevalence,118,Suriname,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0088544298284782,0.0114991527638174,0.0066923814129077
+5,Prevalence,118,Suriname,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0099852193735721,0.0126000809608031,0.007659955203418
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0109458404446745,0.0139946985378396,0.0084805869726243
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0084559016999196,0.0106456206629428,0.0068084129471365
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,6.88803554264e-05,8.15989527996e-05,5.89401451018e-05
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,5.90205371172e-05,7.04228408251e-05,5.07786889263e-05
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0091584274072572,0.0117502346586363,0.0073156988179796
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.009387836253926,0.0117775019056688,0.0072123822473213
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.39532235249e-05,4.09015922014e-05,2.86269600553e-05
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.66982788988e-05,3.19874870644e-05,2.27132283714e-05
+5,Prevalence,115,Jamaica,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0038727874582809,0.0048994818240007,0.0029346100535018
+5,Prevalence,115,Jamaica,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0034659655915592,0.0043794483785066,0.0027215882792045
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.83014193951e-05,3.30484993926e-05,2.45556659111e-05
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.62430866705e-05,3.14713375545e-05,2.21176491099e-05
+5,Prevalence,125,Colombia,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007043508236972,0.0008468424229131,0.0005672166915122
+5,Prevalence,125,Colombia,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005272038749888,0.0006447330973485,0.0004136897166457
+5,Prevalence,106,Bahamas,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0149455810193382,0.0193622852662086,0.0113756924434309
+5,Prevalence,106,Bahamas,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0161539323230769,0.0208400489470813,0.0122739580560662
+5,Prevalence,114,Haiti,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0007234795858528,0.0009418068038059,0.0005628104848044
+5,Prevalence,114,Haiti,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0008356263131267,0.0010679156093415,0.0006544862987757
+5,Prevalence,114,Haiti,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0038203231611311,0.0049829585183087,0.0028899436334056
+5,Prevalence,114,Haiti,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0031555842291259,0.0040509387887254,0.0023975182450709
+5,Prevalence,122,Ecuador,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0019782202119835,0.0026716779766899,0.001477916629817
+5,Prevalence,122,Ecuador,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0020210453332686,0.002681497413081,0.0015495073702255
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005420725846298,0.0006343398029853,0.0004473687891867
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003902013894391,0.0004601786789333,0.0003158932447962
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0040566970002067,0.0047906330249097,0.0033823527963927
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0014178169538306,0.0016731529971111,0.0012016577271054
+5,Prevalence,104,Caribbean,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0031420143586131,0.0037390112297857,0.0026612550439759
+5,Prevalence,104,Caribbean,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.001420480906796,0.0016385179227061,0.0012203473458043
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0016983112032243,0.0022650678845702,0.0012816295670176
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0015647473502104,0.0020541885805598,0.0011969113477185
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0036360409583812,0.0044394456992657,0.0031002487487642
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015494132492103,0.0018182367375306,0.0013218783588683
+5,Prevalence,118,Suriname,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0025169667370321,0.0029657872268157,0.0021593958451094
+5,Prevalence,118,Suriname,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0013192682397001,0.0015551555311279,0.0011280183624153
+5,Prevalence,110,Dominica,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.003852583970343,0.0050981150485132,0.0029113226148044
+5,Prevalence,110,Dominica,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0040672901448253,0.005453244272519,0.0031666943432562
+5,Prevalence,122,Ecuador,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0125205568927847,0.0160511761704759,0.0099029067781051
+5,Prevalence,122,Ecuador,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0102948445490892,0.0130200210673837,0.0080944833693787
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0137854386118853,0.0173563598207648,0.0108850863755882
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0119140430469141,0.0148361936282564,0.0094119952835071
+5,Prevalence,125,Colombia,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0194364897338696,0.0243565719370988,0.0150047339639388
+5,Prevalence,125,Colombia,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0253660488543183,0.0318457577286691,0.0194049998260763
+5,Prevalence,123,Peru,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0152969496731129,0.0192045845476489,0.0120577899631743
+5,Prevalence,123,Peru,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0138776124665707,0.0171001836640981,0.0109311278774861
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007496522150788,0.0008952960533902,0.0006226303356972
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004296835798038,0.000532053926468,0.0003391878851186
+5,Prevalence,122,Ecuador,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0079136158595864,0.0099623151949091,0.0059415582863161
+5,Prevalence,122,Ecuador,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0061235563892238,0.0077662994706002,0.0045751496277501
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0013614623666009,0.0018143095948443,0.0010330990234672
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0015484030792197,0.0019753817193051,0.0012340965831197
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0085833002929654,0.0108637307393522,0.0066317785849127
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0071122910650662,0.0089537424384975,0.0054298314844492
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0027329772564429,0.0031912878355357,0.0023178867138818
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015877838825414,0.0018370663921519,0.0013513655419228
+5,Prevalence,123,Peru,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0011761842880705,0.0015615192529411,0.0008766075358509
+5,Prevalence,123,Peru,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0014131931780261,0.0018396290681152,0.0010869596501892
+5,Prevalence,110,Dominica,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0117804080168167,0.0149303154965551,0.0089133462661273
+5,Prevalence,110,Dominica,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0102464376428509,0.0130602027428597,0.0076259517604421
+5,Prevalence,123,Peru,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0081041073929484,0.0103978074344241,0.0061198317067445
+5,Prevalence,123,Peru,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0065390034679871,0.0084007857732632,0.0049270544722571
+5,Prevalence,132,Panama,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0162276334872247,0.0204095001711214,0.0122892896108553
+5,Prevalence,132,Panama,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0189570503144198,0.0240669250189053,0.0142865285465202
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0703275203882649,0.0762056156055412,0.0650268740543043
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0761527307329985,0.0822638606304542,0.0710261989371049
+5,Prevalence,114,Haiti,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0008013193813182,0.0009682396881546,0.000677642621699
+5,Prevalence,114,Haiti,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0003727810043869,0.0004371511845617,0.0003090616508768
+5,Prevalence,127,El Salvador,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0073032206498743,0.0095016270602602,0.0056659178993881
+5,Prevalence,127,El Salvador,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0105415370067025,0.0131204438811481,0.0081023179344434
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0028070161383462,0.0037320929959983,0.0020227193396955
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0025247244603682,0.0032330356547586,0.0019661954306498
+5,Prevalence,122,Ecuador,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0026176827099117,0.002862685887455,0.0023383622837193
+5,Prevalence,122,Ecuador,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0014987755165611,0.0016607612102222,0.0013386528491641
+5,Prevalence,125,Colombia,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,6.97132871573e-05,8.262140573e-05,5.84383987575e-05
+5,Prevalence,125,Colombia,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,5.78230487145e-05,6.98045110226e-05,4.8535631604e-05
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0068359293645284,0.0087140275714054,0.0052234487917662
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0057620212886595,0.0073943128657367,0.004376970210456
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0178549878317175,0.0227728887925553,0.0134128639744799
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0221217197930977,0.0277168092672167,0.0170213974415286
+5,Prevalence,123,Peru,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0019967967720114,0.0023770167241861,0.0016555028031078
+5,Prevalence,123,Peru,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0010926228109419,0.0013122559898694,0.0009023007148937
+5,Prevalence,111,Dominican Republic,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0019699359888075,0.0023454017823471,0.001659790522515
+5,Prevalence,111,Dominican Republic,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0008649104449485,0.0010341007644288,0.0007300322012663
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.007593067308543,0.0096117103761651,0.0057717709384481
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0061121115271162,0.0077486239558969,0.0045818286899624
+5,Prevalence,115,Jamaica,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0090515127763285,0.0114321941709482,0.0069198419604264
+5,Prevalence,115,Jamaica,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0077780091840852,0.0099840432722598,0.005905758891932
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0044050875012246,0.0053556889635273,0.0036186223052769
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0021903332603412,0.0026279111669778,0.0018296490041406
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0133672571806795,0.0168753281589671,0.0104621421133782
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0150186000233334,0.018533950665461,0.0116018887078996
+5,Prevalence,115,Jamaica,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.002234813339787,0.0026623908329716,0.0018744742013343
+5,Prevalence,115,Jamaica,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0010573994012802,0.0012421778349962,0.0008882719110701
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0148622607312398,0.0198082158936068,0.0109511748070755
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0174169928233997,0.0225679274682539,0.0131693852862488
+5,Prevalence,128,Guatemala,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.010533074456223,0.01333226750766,0.0081563281753316
+5,Prevalence,128,Guatemala,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0096367288214292,0.0119497414401559,0.007429260955584
+5,Prevalence,110,Dominica,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0047546270520662,0.0056270271132888,0.0040047756469867
+5,Prevalence,110,Dominica,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0013375327871992,0.0015911301427644,0.0011065165395533
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0115744774540847,0.0149198529101169,0.0087254980545711
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0099673619596767,0.013174812686575,0.0075504624128292
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0032776894409994,0.0038980494494554,0.0026996896803178
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.001610176332367,0.0018805546625615,0.0013266260214724
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0020757159285309,0.0023940217598912,0.0017885847513313
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0011699529130103,0.001349550554069,0.0010105282857158
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0158511774514115,0.0205100042820369,0.0122552395494947
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0191270164896387,0.0245418436805896,0.0143529226498033
+5,Prevalence,125,Colombia,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0038158382393045,0.0045819810684834,0.0031973797953764
+5,Prevalence,125,Colombia,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0023103817871875,0.0027194368740672,0.0019533407122314
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0774785992604853,0.0837817370633659,0.0722501907632528
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0798108051611937,0.0869013900726415,0.0738393559847623
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.001043121191831,0.0013936811115837,0.0007753364514307
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0012439776672214,0.0015748635888685,0.0009790032388683
+5,Prevalence,136,Paraguay,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0650731482874472,0.0707304385021165,0.0609119287440744
+5,Prevalence,136,Paraguay,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0611922318994231,0.0661164433536431,0.0570121657235781
+5,Prevalence,305,Bermuda,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1752647767272026,0.1902263123265303,0.1589839557931235
+5,Prevalence,305,Bermuda,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1840143260830433,0.201189320505853,0.1679147038628111
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0055531566305939,0.0072042747277833,0.0042313614468789
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0048141903477358,0.0061986933245737,0.0036049416863717
+5,Prevalence,135,Brazil,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0778552294059035,0.0843394674786203,0.0725715471570682
+5,Prevalence,135,Brazil,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0803533650884782,0.0875294105516188,0.0742815498403845
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0129531588006919,0.0166768369441366,0.0097840722053799
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0206528648706672,0.026601313631617,0.0157629453554927
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015370349909355,0.0018546714332959,0.0012551416685736
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0009078961508537,0.0010895886049719,0.0007337100591118
+5,Prevalence,305,Bermuda,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0238217925609886,0.0308299968721263,0.017544673713697
+5,Prevalence,305,Bermuda,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0346162502266531,0.0445664290476397,0.0261936770553476
+5,Prevalence,135,Brazil,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0130577540992268,0.0168091524177503,0.0098619836249436
+5,Prevalence,135,Brazil,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0208640851159325,0.0268790617337178,0.0159208540537251
+5,Prevalence,136,Paraguay,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0095076948018708,0.0121983624669562,0.0071960595333977
+5,Prevalence,136,Paraguay,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0134044508993694,0.017085389398531,0.0103563130548283
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0955663315465401,0.1042949884151918,0.0874215559250105
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.0889142653173396,0.097016793539233,0.08250103310161
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1892255609586852,0.2017017408721312,0.1750295008870183
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1749908867608112,0.1903849769392853,0.1611959992474371
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.01344883487187,0.0178190548755354,0.010178572288099
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0170918525268144,0.0218024209779676,0.0128743273980674
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0323711664181039,0.0423312791412778,0.0245943301513725
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0438266393399923,0.0551554852333839,0.0326945598431173
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.144737868690536,0.1575131978041228,0.1333546291389896
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,491,Cardiovascular diseases,2,Percent,2023,0.1428939661342357,0.1551745530387489,0.1324887658317515
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0285382714382758,0.0367981565308154,0.0211479475421694
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,502,Lower extremity peripheral arterial disease,2,Percent,2023,0.0395778783887709,0.0515793832551158,0.029601295765269
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.91513934016e-05,3.65845627677e-05,2.27995025199e-05
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,5.43268026465e-05,6.75551993468e-05,4.34252000822e-05
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.56007386421e-05,3.18408873934e-05,2.06377506668e-05
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.41310541397e-05,5.44176360636e-05,3.61761745957e-05
+5,Prevalence,305,Bermuda,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.85499622244e-05,3.57476820713e-05,2.23323822633e-05
+5,Prevalence,305,Bermuda,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,5.47222408489e-05,6.76615460006e-05,4.38181343942e-05
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003657667140268,0.0004405090742233,0.0003002964674907
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003609298856827,0.000428834876977,0.0002983364329744
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0164887741494562,0.0172429377776087,0.0156757015273824
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0187720808622091,0.0195839672013997,0.0179440935243963
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,8.16312886712e-05,9.42483005251e-05,6.94291432574e-05
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,5.03275305165e-05,5.88422006457e-05,4.37480474144e-05
+5,Prevalence,305,Bermuda,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0776632448290105,0.0918951420826976,0.0669064038451238
+5,Prevalence,305,Bermuda,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0557337858615246,0.0650303443153979,0.0484290236296443
+5,Prevalence,305,Bermuda,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,0.0001066080409131,0.0001239091046903,8.63437140727e-05
+5,Prevalence,305,Bermuda,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,3.84969132772e-05,4.55114220195e-05,3.19361844375e-05
+5,Prevalence,128,Guatemala,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0092195164916617,0.0111978203331998,0.0072609404430983
+5,Prevalence,128,Guatemala,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0123770652045053,0.0150031260199741,0.009582180248032
+5,Prevalence,128,Guatemala,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0064284946144222,0.00669182362812,0.0061635492862489
+5,Prevalence,128,Guatemala,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0069763504357946,0.0072351056476244,0.0066982668725272
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0011164310402847,0.0013731604489825,0.0008635173305274
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0009003144203559,0.0011804581813278,0.0006756209194386
+5,Prevalence,128,Guatemala,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005187341119466,0.0006430895191684,0.0004150858342498
+5,Prevalence,128,Guatemala,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003817590756968,0.0004645546810351,0.0003015290331386
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.94697827212e-05,2.40052067584e-05,1.59144748811e-05
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.51103360524e-05,4.38640830244e-05,2.8948816353e-05
+5,Prevalence,305,Bermuda,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003832544621473,0.0004532597692317,0.0003233983247438
+5,Prevalence,305,Bermuda,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003956235647465,0.0004731899316049,0.0003208726198265
+5,Prevalence,305,Bermuda,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0161146950729785,0.017001118105775,0.0153509393513088
+5,Prevalence,305,Bermuda,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0184733266228459,0.0194720928792477,0.0177021813660594
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0477796789398585,0.0546737011948342,0.0403255370932737
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.041777981871493,0.0475712487564217,0.0356376672277271
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0297320184298018,0.0410122249783624,0.0215666228811241
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0294344966164895,0.0379323539442025,0.0223868123741229
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.1122085486156778,0.1264263165339295,0.0965237477196712
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0874600656886279,0.101307160251448,0.0739071028734541
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.002545114147663,0.003272660351231,0.0019279681674714
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0022045903255211,0.0028962583207203,0.0017400801602561
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.000290168873783,0.0003417969060135,0.0002410750982972
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0002873609943886,0.0003435222525614,0.0002367814063991
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0143590185482163,0.015031737989378,0.0137239274831637
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0140251968126555,0.0147359034695734,0.0133607562374095
+5,Prevalence,305,Bermuda,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0033693910051754,0.0046155626706466,0.0024862671458911
+5,Prevalence,305,Bermuda,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0040875494136313,0.0056101139322173,0.0030268447518045
+5,Prevalence,305,Bermuda,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0182149820906818,0.0235334242623862,0.013671595920564
+5,Prevalence,305,Bermuda,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0164013455016097,0.0210162052614598,0.0122148328497331
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0094023101014921,0.0121271804313692,0.0071217304739447
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0075304914074334,0.0095120128247448,0.0057572960499658
+5,Prevalence,122,Ecuador,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.28312929396e-05,2.87795934355e-05,1.84542332776e-05
+5,Prevalence,122,Ecuador,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.95731376853e-05,4.88183051898e-05,3.18801551487e-05
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0016088420549847,0.0018759855411777,0.0013284165669117
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0010243129308163,0.0012166321701678,0.0008270301791899
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,1.66950707097e-05,1.91537171203e-05,1.44775083135e-05
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,3.11119693505e-05,3.65878634096e-05,2.62300956408e-05
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003360570892181,0.0004085214753862,0.0002802651752713
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0003245917817611,0.0003896273471945,0.0002702226810692
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0179833501049295,0.0188167969483276,0.0171395619612114
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0178891409998781,0.0186896360379398,0.0171174391049855
+5,Prevalence,305,Bermuda,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0024040908242163,0.002942352722507,0.0018598285232806
+5,Prevalence,305,Bermuda,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0018986544781749,0.0023683893890115,0.0015040491599874
+5,Prevalence,123,Peru,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0172825614134113,0.0201731027303958,0.0149129995501388
+5,Prevalence,123,Peru,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.012678141466142,0.0151671981544159,0.0106336208188943
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0087463994566479,0.0106246673528466,0.006981864165914
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0117189970947689,0.0142786377018613,0.0094426233096448
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0098701510693113,0.0104645030479951,0.0093703526258391
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0108950918971025,0.0114792412780506,0.0103066123335965
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0173252902571736,0.0229950929711888,0.0129520447671574
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0151072762988075,0.0196441960511622,0.0114436667592874
+5,Prevalence,132,Panama,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0096865296497236,0.0118415457287786,0.0077555997492432
+5,Prevalence,132,Panama,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0126812979428417,0.0157075127633608,0.0102725983448373
+5,Prevalence,132,Panama,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0116847140885905,0.0121961382366231,0.0112532894475535
+5,Prevalence,132,Panama,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0122516845854132,0.0126834836635629,0.0118262347023558
+5,Prevalence,305,Bermuda,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0147628077340732,0.0172290299271084,0.0122568729723909
+5,Prevalence,305,Bermuda,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0058908075894964,0.0069847594047192,0.0048198253763449
+5,Prevalence,117,Saint Vincent and the Grenadines,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.99574663092e-05,2.48315532832e-05,1.58234481077e-05
+5,Prevalence,117,Saint Vincent and the Grenadines,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.2437612141e-05,4.04396295154e-05,2.61558290043e-05
+5,Prevalence,116,Saint Lucia,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.10811831972e-05,2.64162707026e-05,1.64350844273e-05
+5,Prevalence,116,Saint Lucia,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.68948012376e-05,4.53662404284e-05,2.98973395307e-05
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0063487822205998,0.0086210095495434,0.0045919996032041
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0053354460950195,0.0071087320872465,0.0039026267158256
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.007007005828679,0.0085100842311094,0.0056435865716313
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0070579039248912,0.0085850326285678,0.0057245752264997
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.013228254769303,0.0146277455870885,0.0122259065523185
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.012720549612338,0.0139821547039257,0.0117424552829609
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0033480168767581,0.0039827437052014,0.0028538569808894
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015719197044809,0.0018733870124367,0.0013215803427358
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,5.02289418361e-05,5.99446577698e-05,4.25575682852e-05
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,6.07677186289e-05,7.52091930188e-05,4.88690141787e-05
+5,Prevalence,120,Andean Latin America,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.15001558949e-05,2.67123421864e-05,1.73212919878e-05
+5,Prevalence,120,Andean Latin America,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.6040916114e-05,4.45674006268e-05,2.93135807762e-05
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0678299028409458,0.0795673419947429,0.0582738096425847
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0523056894020176,0.0599703723121753,0.0440337654515161
+5,Prevalence,119,Trinidad and Tobago,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.0935370664e-05,2.65738838498e-05,1.67312373383e-05
+5,Prevalence,119,Trinidad and Tobago,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.63624384291e-05,4.5015025065e-05,2.91816782654e-05
+5,Prevalence,118,Suriname,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.01153289194e-05,2.5607638536e-05,1.62493173539e-05
+5,Prevalence,118,Suriname,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.5580672546e-05,4.38376918012e-05,2.89784581426e-05
+5,Prevalence,136,Paraguay,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0117087594153496,0.0141552530318912,0.0093105136346316
+5,Prevalence,136,Paraguay,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0111814769470772,0.0136683823736482,0.0089993552289947
+5,Prevalence,136,Paraguay,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0108660769854028,0.0113356043033198,0.0103839992151594
+5,Prevalence,136,Paraguay,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0099008449219696,0.0103646957275654,0.0093880604177534
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0015720102416991,0.0018610358876302,0.0013041551512714
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0012367027675724,0.0014787157896886,0.0010023552209081
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0015249405219769,0.0019110936946921,0.0012197902605737
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0010918386039773,0.0013582409062712,0.000879979569614
+5,Prevalence,136,Paraguay,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007649954254266,0.0009425996254283,0.0006076870816788
+5,Prevalence,136,Paraguay,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005610607597978,0.0006960396161211,0.0004430811734215
+5,Prevalence,128,Guatemala,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.89657364182e-05,2.35038648654e-05,1.54246803427e-05
+5,Prevalence,128,Guatemala,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.25288528742e-05,3.99719222793e-05,2.69223212627e-05
+5,Prevalence,130,Mexico,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.61984700176e-05,3.21784323995e-05,2.11300189325e-05
+5,Prevalence,130,Mexico,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.42739064616e-05,5.40270763757e-05,3.6280960365e-05
+5,Prevalence,125,Colombia,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.75620667819e-05,3.40715448685e-05,2.18809119379e-05
+5,Prevalence,125,Colombia,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.89107722653e-05,6.13209225545e-05,3.97989583742e-05
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0222821498375999,0.0288166483009504,0.0167796805581787
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0188395627878369,0.0246426314189908,0.0145101084753846
+5,Prevalence,125,Colombia,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0242569506825322,0.0349598504975046,0.0188317660976752
+5,Prevalence,125,Colombia,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0151292065051929,0.0209389512040177,0.012744295691892
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.04555747528e-05,3.79918931784e-05,2.45548984738e-05
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,5.2035208986e-05,6.41671475656e-05,4.34016118318e-05
+5,Prevalence,123,Peru,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.19541949197e-05,2.73403119017e-05,1.76571742635e-05
+5,Prevalence,123,Peru,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.6462313238e-05,4.50421294569e-05,2.9624101563e-05
+5,Prevalence,130,Mexico,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0081682561228242,0.0098817518970933,0.0065351947452886
+5,Prevalence,130,Mexico,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0109032810986313,0.0132594431842909,0.008780295364146
+5,Prevalence,130,Mexico,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0100713077461755,0.010994632333767,0.0093697489391301
+5,Prevalence,130,Mexico,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0105259423928061,0.0114480014367939,0.0096551894643854
+5,Prevalence,132,Panama,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0013136284378362,0.0015414842403008,0.0011019188676992
+5,Prevalence,132,Panama,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.000719688632956,0.000859907900728,0.0005844062660014
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0198865725161502,0.0272233776964118,0.0145403208638325
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0283991442392998,0.0376114398864045,0.0213332909062271
+5,Prevalence,130,Mexico,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004419660422453,0.00053910599654,0.0003558507652787
+5,Prevalence,130,Mexico,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0002991117803145,0.000375699117443,0.0002303349612047
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0165853336948287,0.0221191617679387,0.0120329900990988
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.018702490865582,0.0241024095957204,0.0138418633918632
+5,Prevalence,129,Honduras,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0093085922606497,0.0115853547130691,0.007165708118953
+5,Prevalence,129,Honduras,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0123359461837391,0.0151741170454354,0.0097151355434879
+5,Prevalence,129,Honduras,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0092199911017318,0.0095854118998613,0.0088650597331759
+5,Prevalence,129,Honduras,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0095952644438746,0.0099671110725745,0.0091835544799212
+5,Prevalence,132,Panama,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0133471295012892,0.0175248205093943,0.0102068647788447
+5,Prevalence,132,Panama,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0136462361062856,0.0173873016695693,0.010567509340665
+5,Prevalence,136,Paraguay,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0081943903645623,0.0106610996284223,0.006236207450116
+5,Prevalence,136,Paraguay,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0088256551234788,0.0112242100956997,0.006748084151077
+5,Prevalence,132,Panama,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.8682829866e-05,3.56769716051e-05,2.29070882101e-05
+5,Prevalence,132,Panama,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.77162285175e-05,5.83456502833e-05,3.8752550691e-05
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.55272213386e-05,3.18082454406e-05,2.03801084266e-05
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.57078130233e-05,5.68856351264e-05,3.66610847948e-05
+5,Prevalence,127,El Salvador,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.51918581847e-05,3.09359993114e-05,2.0416575917e-05
+5,Prevalence,127,El Salvador,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.87537531451e-05,5.95170734978e-05,3.93465078678e-05
+5,Prevalence,129,Honduras,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.95625107906e-05,2.37535230319e-05,1.58284718222e-05
+5,Prevalence,129,Honduras,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.10366231804e-05,3.79792189775e-05,2.56098541393e-05
+5,Prevalence,125,Colombia,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0013722399693305,0.0018734224179621,0.001014941524825
+5,Prevalence,125,Colombia,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0016961229951925,0.0022554028535227,0.0012672868367478
+5,Prevalence,130,Mexico,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.083857145e-05,3.62040689341e-05,2.56778355005e-05
+5,Prevalence,130,Mexico,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.8908743225e-05,3.35811597483e-05,2.44537384728e-05
+5,Prevalence,125,Colombia,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0087384545332121,0.0110320724841463,0.0067472020733094
+5,Prevalence,125,Colombia,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0076658039034838,0.0098630205076456,0.0058704355952615
+5,Prevalence,129,Honduras,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005486775026524,0.0006715808935854,0.0004349737162875
+5,Prevalence,129,Honduras,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004161945844014,0.0005169535654686,0.0003288245156027
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0267154593000884,0.0305378018899013,0.0240278826368933
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0205568806143909,0.023346907556421,0.0184155237503575
+5,Prevalence,385,Puerto Rico,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0096381992380438,0.011673978773968,0.0080277539417657
+5,Prevalence,385,Puerto Rico,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0044327996297152,0.005236011870942,0.0036382086798369
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0200213772698236,0.0231388145524083,0.0170950478539777
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0178483735938676,0.0204374141731032,0.0150643402979338
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0046770901497034,0.0064540893287534,0.0033107457134514
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.004435863461063,0.0057899126197716,0.0032050476101252
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.81774913297e-05,2.26895072344e-05,1.46427263008e-05
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.94694493896e-05,3.65856317798e-05,2.39576900322e-05
+5,Prevalence,135,Brazil,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0068642814805858,0.0083233620046256,0.005534174439409
+5,Prevalence,135,Brazil,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0069377413120528,0.0084436262693541,0.0056282360667652
+5,Prevalence,135,Brazil,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0132999720690351,0.014735013227795,0.0122791096545251
+5,Prevalence,135,Brazil,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0128027231094712,0.0140935744853685,0.0117952334843273
+5,Prevalence,122,Ecuador,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0262045767646091,0.0300407943415703,0.0214767365860825
+5,Prevalence,122,Ecuador,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0196474574086555,0.022110958875491,0.0172293491534926
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,3.39890855318e-05,4.11568304043e-05,2.79903124561e-05
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,3.84806678292e-05,4.65702467364e-05,3.16639604901e-05
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,8.18745617586e-05,9.55914585114e-05,6.90374724215e-05
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,7.97095632679e-05,9.47602867505e-05,6.76538050684e-05
+5,Prevalence,130,Mexico,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0335666447176092,0.0388084960812972,0.0292314996215263
+5,Prevalence,130,Mexico,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0259150447580349,0.0300967768036545,0.0227909849088033
+5,Prevalence,127,El Salvador,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,1.39906859558e-05,1.63869435669e-05,1.192702036e-05
+5,Prevalence,127,El Salvador,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,1.46118513745e-05,1.71265691574e-05,1.2385334658e-05
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0199278684344045,0.0253104573815312,0.014946361042792
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0172732141569391,0.0223189514472046,0.0130592979329988
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0095389442065092,0.0113467959203148,0.0080586295234968
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0049543711787312,0.0058998838123241,0.00414453688182
+5,Prevalence,130,Mexico,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.013865706647419,0.0179766179565251,0.0105375629545887
+5,Prevalence,130,Mexico,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0140812401760096,0.0175041532429606,0.0109805462841907
+5,Prevalence,123,Peru,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0085829941028638,0.0105707572048875,0.0067845161220645
+5,Prevalence,123,Peru,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0091017075815638,0.0110151055994273,0.0073058392805433
+5,Prevalence,123,Peru,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.010909716120329,0.0112899717913794,0.0104946362229583
+5,Prevalence,123,Peru,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0100034153788049,0.0105647190436237,0.0094932712069689
+5,Prevalence,135,Brazil,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0015965086635948,0.0018888388702975,0.0013254383660214
+5,Prevalence,135,Brazil,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0012563914754969,0.0015007543178342,0.0010174354850258
+5,Prevalence,128,Guatemala,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0128217978056776,0.0144995798328014,0.0111073015599004
+5,Prevalence,128,Guatemala,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0135942103651581,0.0179171386851109,0.0114439646414888
+5,Prevalence,135,Brazil,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.020918249874391,0.0244448180862154,0.0181717633465853
+5,Prevalence,135,Brazil,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0158726535028361,0.0183152294984346,0.0138029883356621
+5,Prevalence,125,Colombia,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0099713789314701,0.0123247404210738,0.0078779542244347
+5,Prevalence,125,Colombia,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0133071087872027,0.0163576452416197,0.0106514777646056
+5,Prevalence,125,Colombia,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0105542778684763,0.0110045529680301,0.0101373454549929
+5,Prevalence,125,Colombia,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0123674593498001,0.012849000449313,0.011886218298717
+5,Prevalence,305,Bermuda,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.061982721069472,0.0812416176334607,0.0465287619047758
+5,Prevalence,305,Bermuda,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0851829691510413,0.1046786085582533,0.0661555928032784
+5,Prevalence,135,Brazil,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0018553560338968,0.0024106941168224,0.00141174476444
+5,Prevalence,135,Brazil,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0022306029729554,0.0028736100019051,0.0016977445881561
+5,Prevalence,121,Bolivia (Plurinational State of),1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0147563909305284,0.0169199486747463,0.0126207816964596
+5,Prevalence,121,Bolivia (Plurinational State of),2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0138678254415836,0.0161299349543401,0.0119000741739136
+5,Prevalence,124,Central Latin America,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0010387902290913,0.0013853305802955,0.0007900032049706
+5,Prevalence,124,Central Latin America,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0013813839401709,0.0017955907775551,0.0010904159210479
+5,Prevalence,130,Mexico,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0007943670405386,0.0010736728577969,0.0005812007144197
+5,Prevalence,130,Mexico,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0012455995319378,0.0016121522127293,0.0009500202785321
+5,Prevalence,129,Honduras,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0047106179337984,0.0059206875336992,0.0036913190200636
+5,Prevalence,129,Honduras,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.006408609921558,0.0079573741070482,0.0050253537664843
+5,Prevalence,130,Mexico,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0091434509540379,0.0116157179386885,0.0070243514228323
+5,Prevalence,130,Mexico,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0074587410108888,0.0094487712039005,0.0056744457097399
+5,Prevalence,136,Paraguay,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.83178577814e-05,2.2933815671e-05,1.45462366978e-05
+5,Prevalence,136,Paraguay,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.04896556033e-05,3.71686747229e-05,2.47958941994e-05
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0096603458890165,0.0117112168787649,0.0077578982026004
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0132826100088864,0.0165258009011252,0.0105865697814976
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0102764025728382,0.0107565497102461,0.0098563209138234
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0128684082384935,0.0133682401032054,0.0123434023269068
+5,Prevalence,135,Brazil,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0113770082104069,0.0143109225680989,0.0087552131020927
+5,Prevalence,135,Brazil,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0092148756626031,0.0116182183724627,0.0071294484957299
+5,Prevalence,129,Honduras,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.62096206668e-05,3.13920918843e-05,2.15977063078e-05
+5,Prevalence,129,Honduras,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,1.71140767955e-05,2.0520237499e-05,1.42331568783e-05
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0136207310411844,0.0155138320638619,0.011658716193325
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0134384703115443,0.0157783524504987,0.011495046752098
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0018381804008187,0.0024550160032527,0.0013389719550212
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0021048423592084,0.0027768486659888,0.0016378334867428
+5,Prevalence,130,Mexico,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0026140170426129,0.0031675630830824,0.002134089680949
+5,Prevalence,130,Mexico,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015123906026027,0.0017874124065805,0.0012446299990529
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0095508780811845,0.012313205554263,0.0072125799887553
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0078753147999014,0.0099785553304561,0.0059242848750027
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0030535801381715,0.0035678396764447,0.0025824816086539
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0017280752889523,0.0020463205195595,0.0014612438213457
+5,Prevalence,128,Guatemala,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.84543072099e-05,3.50455931989e-05,2.28811139843e-05
+5,Prevalence,128,Guatemala,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,2.59881789922e-05,3.23542301032e-05,2.1202033627e-05
+5,Prevalence,135,Brazil,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0027763044538113,0.0032969762539032,0.0023354580711303
+5,Prevalence,135,Brazil,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.002015477122365,0.0023376039699753,0.001694905274132
+5,Prevalence,129,Honduras,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0147133037273052,0.0174952258069583,0.0129012454000397
+5,Prevalence,129,Honduras,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0123783296604456,0.0142612835277288,0.0108813087994727
+5,Prevalence,135,Brazil,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.1698456181e-05,2.72534956073e-05,1.75306944829e-05
+5,Prevalence,135,Brazil,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.69099734731e-05,4.5419845833e-05,3.00115692843e-05
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,503,Endocarditis,2,Percent,2023,2.00973268522e-05,2.37004191335e-05,1.71809594906e-05
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,503,Endocarditis,2,Percent,2023,1.74808959542e-05,2.05068212952e-05,1.49631625932e-05
+5,Prevalence,127,El Salvador,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0160199613487853,0.0182696324894976,0.0140309247886959
+5,Prevalence,127,El Salvador,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0148238948848619,0.0168806405491211,0.0126891172620994
+5,Prevalence,135,Brazil,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0168400561234161,0.02251699675898,0.0121854873631674
+5,Prevalence,135,Brazil,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0189903009724063,0.0244828565327754,0.0140477777696312
+5,Prevalence,135,Brazil,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,5.91607162285e-05,7.00000095272e-05,4.98773178072e-05
+5,Prevalence,135,Brazil,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,5.69326787782e-05,6.72724891064e-05,4.69126095884e-05
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0177788691351855,0.0208174982242194,0.015565249657743
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0134305178930365,0.0155769595783648,0.011652368955485
+5,Prevalence,128,Guatemala,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0003458337738315,0.0004875887505327,0.0002449406479414
+5,Prevalence,128,Guatemala,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0004918020468188,0.0006600773532939,0.0003656968846515
+5,Prevalence,127,El Salvador,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0006149381283372,0.0008273150434553,0.000446255617697
+5,Prevalence,127,El Salvador,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0009333145636831,0.001229445527169,0.0006988554232374
+5,Prevalence,132,Panama,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,6.04634439563e-05,7.1152637226e-05,5.16757918504e-05
+5,Prevalence,132,Panama,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,5.77591013737e-05,6.80512900935e-05,4.89078823004e-05
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.15988400071e-05,2.71351227616e-05,1.7442682712e-05
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,3.67281742455e-05,4.51819471658e-05,2.98687098573e-05
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0016678322700275,0.0022336450366264,0.0012521858278716
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0019997113660483,0.002612331348221,0.0015050224706925
+5,Prevalence,128,Guatemala,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0053064448808297,0.0067972223043066,0.0040366173578127
+5,Prevalence,128,Guatemala,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0041454795881453,0.005346627884288,0.0030729418490089
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.00033286150605,0.0003992487189211,0.0002774008983259
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0004663947704952,0.000555326916796,0.0003961166450799
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.010717252038175,0.0112099229661305,0.0103484422093302
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0121572970135567,0.0126091338223742,0.0116865579908852
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0208751880042044,0.0243188746577546,0.018203648551231
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0158212658813696,0.0182060466009804,0.0137906367563533
+5,Prevalence,129,Honduras,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0013633294129667,0.0017585023295814,0.0010176219424492
+5,Prevalence,129,Honduras,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0011661472285543,0.0015216141456139,0.0008899430902714
+5,Prevalence,127,El Salvador,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0075598389409575,0.0098020542304641,0.0056672119963998
+5,Prevalence,127,El Salvador,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0068596639727624,0.008740125204186,0.0051338778429674
+5,Prevalence,129,Honduras,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0052543245058112,0.00667903564995,0.0039672208756937
+5,Prevalence,129,Honduras,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0039370068050684,0.0050570795932743,0.0030047467601631
+5,Prevalence,127,El Salvador,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0096605492388397,0.011766131538474,0.0075084299330551
+5,Prevalence,127,El Salvador,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0131940387967144,0.0164692118416321,0.0106223663219403
+5,Prevalence,127,El Salvador,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0084330634127651,0.0088243535596137,0.0081021857857791
+5,Prevalence,127,El Salvador,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.010179534152957,0.0106424536536044,0.0097771673887902
+5,Prevalence,128,Guatemala,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0011581225309623,0.001355667873575,0.0009575820658753
+5,Prevalence,128,Guatemala,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0006400423790679,0.0007770809546195,0.000525061022417
+5,Prevalence,129,Honduras,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0012012750438863,0.0014527485327593,0.0009938904115509
+5,Prevalence,129,Honduras,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0006553400255073,0.0007881185905515,0.0005396102340388
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0018440905115532,0.0023991228082727,0.0014033908900196
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0022176771294009,0.0028563272131891,0.0016926997430694
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0102437637316676,0.0126425635689118,0.0080049439622656
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,492,Rheumatic heart disease,2,Percent,2023,0.0132445080583923,0.0162122439822636,0.0106249453880769
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,494,Stroke,2,Percent,2023,0.0079603517557453,0.00831336377859,0.007640486042174
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,494,Stroke,2,Percent,2023,0.0096750352635995,0.0100785040999536,0.0092553196328873
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0101084829117986,0.0129759117433146,0.0076426178053605
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0081237407887561,0.0103930625301037,0.0061049744537684
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0112689004290416,0.0141746322594611,0.0086757523805324
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.009120378192392,0.0114949418505961,0.0070560872917451
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005332779082936,0.0006426901349684,0.0004341124630091
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004093374608013,0.0004994162989129,0.0003316512584224
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0008950405576323,0.0012078386780475,0.000684503880297
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0011585564491423,0.0014962256158238,0.0008979324617314
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0053536304232659,0.0067259922603886,0.0041464572619629
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0047683140716834,0.006045071810933,0.0035966081373575
+5,Prevalence,127,El Salvador,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.001790565701338,0.0021988076162756,0.0014861071695559
+5,Prevalence,127,El Salvador,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0011448232492773,0.0013819153602576,0.000924695488371
+5,Prevalence,136,Paraguay,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,7.8226695418e-05,9.53122502629e-05,6.37169176024e-05
+5,Prevalence,136,Paraguay,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,7.38740874561e-05,9.16548707301e-05,6.04034031031e-05
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0005348569352215,0.0006357790371091,0.0004397760011634
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004568544245204,0.0005501887478185,0.0003802864700675
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0027627948256221,0.0032719372226596,0.0023307973752535
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0020034882562926,0.0023203528053635,0.0016906238823874
+5,Prevalence,127,El Salvador,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0004579384202011,0.0005544918576215,0.0003718714435701
+5,Prevalence,127,El Salvador,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0003719530177233,0.0004489473875883,0.0002950378585386
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0013125716025601,0.0015533105215943,0.0010736242007304
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.000833260228863,0.0009670324969226,0.0006992246175732
+5,Prevalence,136,Paraguay,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0194573448178253,0.0228276447632836,0.0163690228951838
+5,Prevalence,136,Paraguay,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.01405796441174,0.0165172642075507,0.0118907098565045
+5,Prevalence,126,Costa Rica,1,Male,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.000996077803437,0.0011619879226228,0.0008362415917307
+5,Prevalence,126,Costa Rica,2,Female,22,All ages,499,Cardiomyopathy and myocarditis,2,Percent,2023,0.0007096815529289,0.0008381574480501,0.000589551244941
+5,Prevalence,131,Nicaragua,1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0059703682455153,0.0075624248752655,0.0046450526960043
+5,Prevalence,131,Nicaragua,2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0087476561191387,0.0109541647953982,0.0065334161745673
+5,Prevalence,134,Tropical Latin America,1,Male,22,All ages,503,Endocarditis,2,Percent,2023,5.97224486484e-05,7.06566843199e-05,5.03892135011e-05
+5,Prevalence,134,Tropical Latin America,2,Female,22,All ages,503,Endocarditis,2,Percent,2023,5.74124209084e-05,6.75961228965e-05,4.74740077386e-05
+5,Prevalence,136,Paraguay,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0014729980422125,0.0019194728624957,0.0011073302099266
+5,Prevalence,136,Paraguay,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0017740622664747,0.0022912756110121,0.0013388736170074
+5,Prevalence,136,Paraguay,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0077078608172624,0.0097277096704946,0.0059584681831865
+5,Prevalence,136,Paraguay,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0058776752282724,0.0073710029104228,0.0044607325366477
+5,Prevalence,133,Venezuela (Bolivarian Republic of),1,Male,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0063941436096676,0.0082526629985389,0.004906464564133
+5,Prevalence,133,Venezuela (Bolivarian Republic of),2,Female,22,All ages,507,Other cardiovascular and circulatory diseases,2,Percent,2023,0.0077062883784465,0.0098546329309039,0.0059379015711851
+5,Prevalence,136,Paraguay,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0023178376013095,0.0027442941702664,0.0019945305956587
+5,Prevalence,136,Paraguay,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0015920938454911,0.0019078401041061,0.0013279044859953
+5,Prevalence,132,Panama,1,Male,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0172608725223529,0.0219318315488489,0.0147520284184714
+5,Prevalence,132,Panama,2,Female,22,All ages,493,Ischemic heart disease,2,Percent,2023,0.0136869561748945,0.0154673858717057,0.0118231915185492
+5,Prevalence,132,Panama,1,Male,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0014963414861399,0.0020417393229276,0.0011027474118128
+5,Prevalence,132,Panama,2,Female,22,All ages,498,Hypertensive heart disease,2,Percent,2023,0.0015844086871307,0.0020697255770754,0.0011847979636902
+5,Prevalence,132,Panama,1,Male,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0092627251264317,0.0117003151943688,0.0070038725119818
+5,Prevalence,132,Panama,2,Female,22,All ages,500,Atrial fibrillation and flutter,2,Percent,2023,0.0073735633162879,0.0094743553472062,0.0056127614019883
+5,Prevalence,132,Panama,1,Male,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0025825451565853,0.0030381004332339,0.0020909032480169
+5,Prevalence,132,Panama,2,Female,22,All ages,504,Non-rheumatic valvular heart disease,2,Percent,2023,0.0014153796857498,0.0016623930859251,0.0011836763317319
+5,Prevalence,393,Saint Kitts and Nevis,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,1.71339477391e-05,2.13831023985e-05,1.36188653213e-05
+5,Prevalence,393,Saint Kitts and Nevis,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.99093857405e-05,3.70424580587e-05,2.3797924012e-05
+5,Prevalence,422,United States Virgin Islands,1,Male,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,2.57341564576e-05,3.21347138409e-05,2.0395946988e-05
+5,Prevalence,422,United States Virgin Islands,2,Female,22,All ages,1004,Pulmonary Arterial Hypertension,2,Percent,2023,4.84429238352e-05,6.05449266381e-05,3.88408618014e-05
