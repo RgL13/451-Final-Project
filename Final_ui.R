@@ -412,4 +412,3 @@ body <- dashboardBody(
 
 
 ui <- dashboardPage(header, sidebar, body)
-shinyApp(ui, server)
