@@ -70,13 +70,19 @@ sidebar <- dashboardSidebar(
     ),
     
     menuItem(
-      "Overview",       tabName = "overview", icon = icon("info-circle")
+      "Overview", 
+      tabName = "overview", 
+      icon = icon("info-circle")
     ),
     menuItem(
-      "Country gaps",   tabName = "gaps",     icon = icon("venus-mars")
+      "Country gaps",
+      tabName = "gaps",
+      icon = icon("venus-mars")
     ),
     menuItem(
-      "Country profile",tabName = "country_ziu",  icon = icon("flag")
+      "Country profile",
+      tabName = "country_ziu",
+      icon = icon("flag")
     )
   ), 
   
