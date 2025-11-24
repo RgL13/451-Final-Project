@@ -12,34 +12,6 @@ library(leaflet)
 library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
-
-ihme_raw <- read.csv("IHME-DATA.csv", stringsAsFactors = FALSE)
-
-ihme <- ihme_raw %>%
-  filter(
-    measure_name == "Prevalence",
-    metric_name  == "Percent",
-    age_name     == "All ages"
-  )
-
-region_names <- c(
-  "Latin America and Caribbean",
-  "Caribbean",
-  "Andean Latin America",
-  "Central Latin America",
-  "Tropical Latin America"
-)
-
-base_data_all_causes <- ihme %>%
-  select(location_name, cause_name, sex_name, val)
-
-world <- rnaturalearth::ne_countries(scale = "medium", returnclass = "sf")
-
-lac_shapes_base <- world %>%
-  mutate(location_name = name) %>%
-  filter(location_name %in% unique(base_data_all_causes$location_name)) %>%
-  select(location_name, geometry)
-
 header <- dashboardHeader(title = "Death Rates of Leading Diseases")
 
 sidebar <- dashboardSidebar(
