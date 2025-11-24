@@ -15,8 +15,25 @@ Specifically, this dashboard investigates:
 The goal is to deliver a clear, interactive, and user-friendly platform for exploring global health inequalities and disease trends.
 
 ## Installation
-The data used in this application were downloaded from the Global Burden of Disease (GBD) results tool provided by the Institute for Health Metrics and Evaluation (IHME). You can access the dataset at: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2023-public/72889dab7d9d7ad1999610984120a1b9
+The data used in this application were downloaded from the Global Burden of Disease (GBD) results tool provided by the Institute for Health Metrics and Evaluation (IHME). 
 
-Using the left panel to filter out exactly information and needed. 
+You can access the dataset at: https://vizhub.healthdata.org/gbd-results?params=gbd-api-2023-public/72889dab7d9d7ad1999610984120a1b9
+
+Use the left-hand filters on the website to select the disease categories, measures, locations, age groups, and years you want to export.
+
+After downloading the CSV file:
+
+- Place the dataset in your project directory.
+
+- Make sure the file path in your Shiny app matches the actual dataset location.
 
 ## Usage
+To run the Shiny application locally:
+
+- Open the project folder in RStudio.
+
+- Ensure that everything(app.r and datasets) are all in the same directory.
+
+- Install required packages if needed
+
+- Runapp in the server.R file
